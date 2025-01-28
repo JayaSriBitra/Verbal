@@ -76,8 +76,8 @@ d) Smiling</br>
 1. Which of the following is true about cross-cultural communication?</br>
 a) Cross-cultural communication should be avoided as it reduces the productivity of a workplace.</br>
 b) Being able to communicate cross-culturally requires you to be ethnocentric in your outlook.</br>
-c)	Effective cross-cultural communication minimizes problems stemming from misinterpretations.</br>
-d)	Being able to communicate cross-culturally requires that you favor certain cultures over others.</br>
+c) Effective cross-cultural communication minimizes problems stemming from misinterpretations.</br>
+d) Being able to communicate cross-culturally requires that you favor certain cultures over others.</br>
 2. Which of the following is NOT a key component of cross-cultural social work?</br>
 a) Cultural awareness</br>
 b) Cultural sensitivity</br>
@@ -104,25 +104,25 @@ b) The process of analyzing the context of a text before translating it into mul
 c) The planning and preparation stages of a product that is built by design to support global markets.</br>
 d) None of these</br>
 7. Which of the following is true about ethnocentrism?</br>
-a)	Ethnocentrism makes you a better cross-cultural communicator.</br>
-b)	Ethnocentrism is the tendency to prefer the ideas of a culture other than one's own.</br>
-c)	Ethnocentrism can be avoided by being sensitive to the various dimensions of cultural differences.</br>
-d)	Ethnocentrism is the belief that every culture has its own significance.</br>
+a) Ethnocentrism makes you a better cross-cultural communicator.</br>
+b) Ethnocentrism is the tendency to prefer the ideas of a culture other than one's own.</br>
+c) Ethnocentrism can be avoided by being sensitive to the various dimensions of cultural differences.</br>
+d) Ethnocentrism is the belief that every culture has its own significance.</br>
 8. For effective cross-cultural communication, your language:</br>
-a)	should be unfamiliar to the target audience in order to capture their attention.</br>
-b)	should be guided by your target audience.</br>
-c)	should be vague so that your message can be interpreted in multiple ways.</br>
-d)	should not be influenced by your intended purpose.</br>
+a) should be unfamiliar to the target audience in order to capture their attention.</br>
+b) should be guided by your target audience.</br>
+c) should be vague so that your message can be interpreted in multiple ways.</br>
+d) should not be influenced by your intended purpose.</br>
 9. Which of the following statements is true about cultural differences regarding body positions and movements?</br>
-a)	In North America, looking directly at people during formal presentations is considered a sign of disrespect.</br>
-b)	In Indonesia, people do not view squatting as a normal body position.</br>
-c)	In the United States, an up-and-down movement of the head means "yes" and a side-to-side movement of the head means "no."</br>
-d)	In the United States, most people indicate "1" by holding up the thumb.</br>
+a) In North America, looking directly at people during formal presentations is considered a sign of disrespect.</br>
+b) In Indonesia, people do not view squatting as a normal body position.</br>
+c) In the United States, an up-and-down movement of the head means "yes" and a side-to-side movement of the head means "no."</br>
+d) In the United States, most people indicate "1" by holding up the thumb.</br>
 10. In order to avoid misinterpretations in cross-cultural communications, you should:</br>
-a)	use two-word verbs.</br>
-b)	use passive voice instead of active voice.</br>
-c)	avoid using colloquial expressions.</br>
-d)	avoid using the active verb.</br>
+a) use two-word verbs.</br>
+b) use passive voice instead of active voice.</br>
+c) avoid using colloquial expressions.</br>
+d) avoid using the active verb.</br>
 11. What does cultural competence involve?</br>
 a) Learning about every culture in the world.</br>
 b) Understanding and respecting cultural differences.</br>
