@@ -226,3 +226,93 @@ c) Keeping conversations strictly formal and rigid.</br>
 d) Speaking as much as possible to dominate the discussion.</br>
 ## Module 2.
 ### Reading Comprehension
+Passage 1: The Impact of Social Media on Communication</br>
+<p align="justify">
+Social media has transformed the way people communicate. Platforms like Facebook, Twitter, and Instagram allow users to share information instantly with a global audience. While this has increased connectivity, it has also led to concerns about privacy and misinformation. Many people rely on social media for news, but not all sources are reliable. Additionally, online interactions often lack the personal touch of face-to-face communication, sometimes leading to misunderstandings. Despite these challenges, social media remains a powerful tool for networking and information sharing.
+</p>
+MCQs:</br>
+1. What is a positive impact of social media?</br>
+a) It eliminates the need for real-life interactions.</br>
+b) It helps people stay connected globally.</br>
+c) It ensures all news shared is accurate.</br>
+d) It reduces the importance of networking.</br>
+2. What is one concern associated with social media?</br>
+a) It always provides verified news.</br>
+b) It improves in-person communication.</br>
+c) It can spread misinformation.</br>
+d) It has no effect on privacy.</br>
+3. Why do online interactions sometimes lead to misunderstandings?</br>
+a) They involve only face-to-face conversations.</br>
+b) They lack the personal touch of direct communication.</br>
+c) They provide too much clarity.</br>
+d) They always result in conflict.</br>
+4. Which of the following best describes social media?</br>
+a) A tool that only creates problems.</br>
+b) A platform for both networking and misinformation.</br>
+c) A way to completely replace traditional media.</br>
+d) A service only for entertainment.</br>
+5. What is the main idea of the passage?</br>
+a) Social media has only negative effects.</br>
+b) Social media is harmful and should be banned.</br>
+c) Social media is a useful tool but comes with challenges.</br>
+d) Social media is perfect for communication.</br>
+Passage 2: The Importance of Renewable Energy</br>
+<p align="justify">
+As the world faces increasing environmental challenges, renewable energy sources like solar, wind, and hydropower are becoming more important. Unlike fossil fuels, which contribute to pollution and climate change, renewable energy sources are sustainable and environmentally friendly. Many countries are investing in clean energy to reduce dependence on oil and coal. However, there are still challenges, such as the high initial costs of renewable energy projects and the need for advanced technology. Despite these obstacles, the shift to renewable energy is necessary for a cleaner, healthier planet.
+</p>
+MCQs:</br>
+1. What is a benefit of renewable energy?</br>
+a) It is a limited resource.</br>
+b) It contributes to pollution.</br>
+c) It is sustainable and environmentally friendly.</br>
+d) It depends only on fossil fuels.</br>
+2. Why are many countries investing in renewable energy?</br>
+a) To increase pollution.</br>
+b) To reduce reliance on fossil fuels.</br>
+c) To avoid using new technology.</br>
+d) To make energy more expensive.</br>
+3. What is a challenge of using renewable energy?</br>
+a) It is more polluting than fossil fuels.</br>
+b) It is always cheaper than coal.</br>
+c) The initial investment costs are high.</br>
+d) It is only available in a few countries.</br>
+4. What does the passage suggest about the future of renewable energy?</br>
+a) It is unlikely to be widely adopted.</br>
+b) It is necessary for a cleaner planet.</br>
+c) It is not as effective as fossil fuels.</br>
+d) It has no advantages over traditional energy.</br>
+5. Which energy source is NOT considered renewable?</br>
+a) Solar energy</br>
+b) Wind energy</br>
+c) Hydropower</br>
+d) Coal</br>
+Passage 3: The Benefits of Reading Books</br>
+<p align="justify">
+Reading books is one of the best ways to gain knowledge and improve cognitive skills. Unlike digital content, books offer deep insights and encourage critical thinking. Studies show that reading regularly can enhance vocabulary, reduce stress, and even improve memory. Fiction books help readers develop empathy by allowing them to experience different perspectives, while non-fiction books provide valuable information on various subjects. In a world where digital distractions are increasing, setting aside time for reading can significantly benefit mental well-being.
+</p>
+MCQs:</br>
+1. How does reading books benefit cognitive skills?</br>
+a) It distracts from learning.</br>
+b) It provides deep insights and critical thinking.</br>
+c) It only entertains without adding value.</br>
+d) It does not impact brain development.</br>
+2. What is one way fiction books help readers?</br>
+a) They provide factual information.</br>
+b) They improve empathy.</br>
+c) They reduce vocabulary skills.</br>
+d) They increase stress levels.</br>
+3. Why is reading important in today's digital world?</br>
+a) It helps reduce digital distractions.</br>
+b) It makes people spend more time on screens.</br>
+c) It has no effect on mental well-being.</br>
+d) It is no longer necessary for learning.</br>
+4. What is an advantage of non-fiction books?</br>
+a) They provide valuable information on various subjects.</br>
+b) They contain only imaginary stories.</br>
+c) They make reading difficult.</br>
+d) They do not contribute to learning.</br>
+5. What is the overall message of the passage?</br>
+a) Reading books has many cognitive and emotional benefits.</br>
+b) Digital content is better than books.</br>
+c) Fiction books are the only valuable books.</br>
+d) Reading books is a waste of time.</br>
