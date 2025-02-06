@@ -226,7 +226,7 @@ c) Keeping conversations strictly formal and rigid.</br>
 d) Speaking as much as possible to dominate the discussion.</br>
 ## Module 2.
 ### Reading Comprehension
-Passage 1: The Impact of Social Media on Communication</br>
+### Passage 1: The Impact of Social Media on Communication</br>
 <p align="justify">
 Social media has transformed the way people communicate. Platforms like Facebook, Twitter, and Instagram allow users to share information instantly with a global audience. While this has increased connectivity, it has also led to concerns about privacy and misinformation. Many people rely on social media for news, but not all sources are reliable. Additionally, online interactions often lack the personal touch of face-to-face communication, sometimes leading to misunderstandings. Despite these challenges, social media remains a powerful tool for networking and information sharing.
 </p>
