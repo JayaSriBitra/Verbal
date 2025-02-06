@@ -226,10 +226,10 @@ c) Keeping conversations strictly formal and rigid.</br>
 d) Speaking as much as possible to dominate the discussion.</br>
 ## Module 2.
 ### Reading Comprehension
-### Passage 1: The Impact of Social Media on Communication</br>
-<p align="justify">
+### Passage 1: The Impact of Social Media on Communication
+
 Social media has transformed the way people communicate. Platforms like Facebook, Twitter, and Instagram allow users to share information instantly with a global audience. While this has increased connectivity, it has also led to concerns about privacy and misinformation. Many people rely on social media for news, but not all sources are reliable. Additionally, online interactions often lack the personal touch of face-to-face communication, sometimes leading to misunderstandings. Despite these challenges, social media remains a powerful tool for networking and information sharing.
-</p>
+
 MCQs:</br>
 1. What is a positive impact of social media?</br>
 a) It eliminates the need for real-life interactions.</br>
@@ -256,10 +256,10 @@ a) Social media has only negative effects.</br>
 b) Social media is harmful and should be banned.</br>
 c) Social media is a useful tool but comes with challenges.</br>
 d) Social media is perfect for communication.</br>
-Passage 2: The Importance of Renewable Energy</br>
-<p align="justify">
+### Passage 2: The Importance of Renewable Energy
+
 As the world faces increasing environmental challenges, renewable energy sources like solar, wind, and hydropower are becoming more important. Unlike fossil fuels, which contribute to pollution and climate change, renewable energy sources are sustainable and environmentally friendly. Many countries are investing in clean energy to reduce dependence on oil and coal. However, there are still challenges, such as the high initial costs of renewable energy projects and the need for advanced technology. Despite these obstacles, the shift to renewable energy is necessary for a cleaner, healthier planet.
-</p>
+
 MCQs:</br>
 1. What is a benefit of renewable energy?</br>
 a) It is a limited resource.</br>
@@ -286,10 +286,10 @@ a) Solar energy</br>
 b) Wind energy</br>
 c) Hydropower</br>
 d) Coal</br>
-Passage 3: The Benefits of Reading Books</br>
-<p align="justify">
+### Passage 3: The Benefits of Reading Books</br>
+
 Reading books is one of the best ways to gain knowledge and improve cognitive skills. Unlike digital content, books offer deep insights and encourage critical thinking. Studies show that reading regularly can enhance vocabulary, reduce stress, and even improve memory. Fiction books help readers develop empathy by allowing them to experience different perspectives, while non-fiction books provide valuable information on various subjects. In a world where digital distractions are increasing, setting aside time for reading can significantly benefit mental well-being.
-</p>
+
 MCQs:</br>
 1. How does reading books benefit cognitive skills?</br>
 a) It distracts from learning.</br>
