@@ -316,3 +316,670 @@ a) Reading books has many cognitive and emotional benefits.</br>
 b) Digital content is better than books.</br>
 c) Fiction books are the only valuable books.</br>
 d) Reading books is a waste of time.</br>
+## Module 3.
+### Spellings
+1. Which of the following is the correct spelling?</br>
+a) Recieve</br>
+b) Receive</br>
+c) Receeve</br>
+d) Receve</br>
+2. Identify the correctly spelled word:</br>
+a) Accomodate</br>
+b) Acommodate</br>
+c) Accommodate</br>
+d) Accomadate</br>
+3. Which spelling is correct?</br>
+a) Definately</br>
+b) Definitely</br>
+c) Definetly</br>
+d) Definitley</br>
+4. Choose the correctly spelled word:</br>
+a) Occurrance</br>
+b) Occurrence</br>
+c) Ocurance</br>
+d) Ocurrance</br>
+5. Which of these words is spelled correctly?</br>
+a) Priviledge</br>
+b) Privledge</br>
+c) Privilege</br>
+d) Privelige</br>
+6. Pick the correctly spelled word:</br>
+a) Embarassment</br>
+b) Embarrassment</br>
+c) Embarasment</br>
+d) Embarrasment</br>
+7. Choose the correct spelling:</br>
+a) Supprise</br>
+b) Surprise</br>
+c) Surprize</br>
+d) Surprese</br>
+8. Which is the correct spelling?</br>
+a) Conscious</br>
+b) Concious</br>
+c) Conscous</br>
+d) Consious</br>
+9. Identify the correctly spelled word:</br>
+a) Independance</br>
+b) Independence</br>
+c) Indipendence</br>
+d) Indepedence</br>
+10. Select the word that is spelled correctly:</br>
+a) Committment</br>
+b) Commitment</br>
+c) Commitmant</br>
+d) Comittment</br>
+11. Which is the correct spelling?</br>
+a) Seperate</br>
+b) Separate</br>
+c) Seperete</br>
+d) Separete</br>
+12. Choose the correct spelling:</br>
+a) Rythm</br>
+b) Rhythm</br>
+c) Rhytm</br>
+d) Rhythym</br>
+13. Identify the correct spelling of the word:</br>
+a) Harassment</br>
+b) Harrassment</br>
+c) Harasment</br>
+d) Harresment</br>
+14. Which word is spelled correctly?</br>
+a) Maintanence</br>
+b) Maintenance</br>
+c) Maintainance</br>
+d) Maintanance</br>
+15. Pick the correctly spelled word:</br>
+a) Completly</br>
+b) Compleatly</br>
+c) Completely</br>
+d) Completley</br>
+16. Which of the following is the correct spelling?</br>
+a) Miscelaneous</br>
+b) Miscellaneous</br>
+c) Miscelaneous</br>
+d) Miscellanous</br>
+17. Choose the correctly spelled word:</br>
+a) Unfortunatly</br>
+b) Unfortunetely</br>
+c) Unfortunately</br>
+d) Unfortunitely</br>
+18. Identify the correct spelling of the word:</br>
+a) Exaggerate</br>
+b) Exagerate</br>
+c) Exaggarate</br>
+d) Exaggerrate</br>
+19. Select the correctly spelled word:</br>
+a) Perseverence</br>
+b) Perserverance</br>
+c) Perseverance</br>
+d) Perseverence</br>
+20. Which spelling is correct?</br>
+a) Apparantly</br>
+b) Aparently</br>
+c) Apparently</br>
+d) Apperantly</br>
+### Synonyms and Antonyms
+### Synonyms
+1. Synonym of "Abundant":</br>
+a) Scarce</br>
+b) Plentiful</br>
+c) Insufficient</br>
+d) Rare</br>
+2. Synonym of "Brave":</br>
+a) Timid</br>
+b) Cowardly</br>
+c) Courageous</br>
+d) Weak</br>
+3. Synonym of "Rapid":</br>
+a) Slow</br>
+b) Quick</br>
+c) Steady</br>
+d) Lazy</br>
+4. Synonym of "Genuine":</br>
+a) Fake</br>
+b) Authentic</br>
+c) Imitation</br>
+d) False</br>
+5. Synonym of "Vacant":</br>
+a) Empty</br>
+b) Full</br>
+c) Crowded</br>
+d) Packed</br>
+6. Synonym of "Timid":</br>
+a) Bold</br>
+b) Fearful</br>
+c) Strong</br>
+d) Confident</br>
+7. Synonym of "Furious":</br>
+a) Angry</br>
+b) Happy</br>
+c) Calm</br>
+d) Satisfied</br>
+8. Synonym of "Generous":</br>
+a) Selfish</br>
+b) Kind</br>
+c) Mean</br>
+d) Greedy</br>
+9. Synonym of "Precise":</br>
+a) Exact</br>
+b) Wrong</br>
+c) Vague</br>
+d) Approximate</br>
+10. Synonym of "Complicated":</br>
+a) Difficult</br>
+b) Easy</br>
+c) Simple</br>
+d) Clear</br>
+### Antonyms
+1. Antonym of "Generous":</br>
+a) Selfish</br>
+b) Kind</br>
+c) Noble</br>
+d) Thoughtful</br>
+2. Antonym of "Optimistic":</br>
+a) Hopeful</br>
+b) Negative</br>
+c) Cheerful</br>
+d) Encouraging</br>
+3. Antonym of "Expand":</br>
+a) Increase</br>
+b) Grow</br>
+c) Shrink</br>
+d) Enlarge</br>
+4. Antonym of "Brave":</br>
+a) Courageous</br>
+b) Timid</br>
+c) Fearless</br>
+d) Strong</br>
+5. Antonym of "Vague":</br>
+a) Unclear</br>
+b) Clear</br>
+c) Obscure</br>
+d) Ambiguous</br>
+6. Antonym of "Fragile":</br>
+a) Delicate</br>
+b) Sturdy</br>
+c) Weak</br>
+d) Brittle</br>
+7. Antonym of "Reluctant":</br>
+a) Hesitant</br>
+b) Eager</br>
+c) Unwilling</br>
+d) Resistant</br>
+8. Antonym of "Mature":</br>
+a) Grown-up</br>
+b) Immature</br>
+c) Developed</br>
+d) Wise</br>
+9. Antonym of "Permanent":</br>
+a) Everlasting</br>
+b) Temporary</br>
+c) Lasting</br>
+d) Stable</br>
+10. Antonym of "Complicated":</br>
+a) Easy</br>
+b) Complex</br>
+c) Hard</br>
+d) Difficult</br>
+### One-Word Substitutes
+1. A person who believes in God:</br>
+a) Atheist</br>
+b) Theist</br>
+c) Agnostic</br>
+d) Deist</br>
+2. A person who does not believe in God:</br>
+a) Theist</br>
+b) Atheist</br>
+c) Agnostic</br>
+d) Deist</br>
+3. A person who speaks many languages:</br>
+a) Linguist</br>
+b) Polyglot</br>
+c) Orator</br>
+d) Bilingual</br>
+4. A person who studies human societies and cultures:</br>
+a) Psychologist</br>
+b) Sociologist</br>
+c) Anthropologist</br>
+d) Economist</br>
+5. A person who composes the sequence of steps for a dance:</br>
+a) Musician</br>
+b) Choreographer</br>
+c) Composer</br>
+d) Dancer</br>
+6. A person who loves books:</br>
+a) Bibliophile</br>
+b) Autophile</br>
+c) Lexicographer</br>
+d) Pedant</br>
+7. A person who is unable to sleep:</br>
+a) Insomniac</br>
+b) Amnesiac</br>
+c) Narcoleptic</br>
+d) Somnambulist</br>
+8. A person who walks in sleep:</br>
+a) Insomniac</br>
+b) Somnambulist</br>
+c) Lunatic</br>
+d) Nocturnal</br>
+9. A person who eats too much:</br>
+a) Glutton</br>
+b) Epicure</br>
+c) Gourmet</br>
+d) Connoisseur</br>
+10. A speech given by one person:</br>
+a) Dialogue</br>
+b) Soliloquy</br>
+c) Monologue</br>
+d) Debate</br>
+11. A place where dead bodies are kept:</br>
+a) Crematorium</br>
+b) Mortuary</br>
+c) Graveyard</br>
+d) Cemetery</br>
+12. A handwriting that cannot be read:</br>
+a) Legible</br>
+b) Illegible</br>
+c) Calligraphy</br>
+d) Script</br>
+13. One who is present everywhere:</br>
+a) Omniscient</br>
+b) Omnipotent</br>
+c) Omnipresent</br>
+d) Ubiquitous</br>
+14. One who knows everything:</br>
+a) Omnipotent</br>
+b) Omniscient</br>
+c) Omnivorous</br>
+d) Intellectual</br>
+15. A place where birds are kept:</br>
+a) Aquarium</br>
+b) Aviary</br>
+c) Zoo</br>
+d) Hatchery</br>
+16. A person who collects coins:</br>
+a) Numismatist</br>
+b) Philatelist</br>
+c) Cartographer</br>
+d) Archivist</br>
+17. A person who loves himself too much:</br>
+a) Egoist</br>
+b) Altruist</br>
+c) Narcissist</br>
+d) Misogynist</br>
+18. A person who does not eat meat:</br>
+a) Herbivore</br>
+b) Carnivore</br>
+c) Omnivore</br>
+d) Cannibal</br>
+19. A government run by religious leaders:</br>
+a) Monarchy</br>
+b) Theocracy</br>
+c) Oligarchy</br>
+d) Democracy</br>
+20. A person who can endure pain or hardship without showing feelings:</br>
+a) Stoic</br>
+b) Pessimist</br>
+c) Optimist</br>
+d) Philanthropist</br>
+## Module 4.
+### Idioms
+What does the idiom "Break the ice" mean?
+a) To shatter something
+b) To start a conversation in a social setting
+c) To fall into cold water
+d) To make a mistake
+
+What does the idiom "Hit the nail on the head" mean?
+a) To hurt oneself
+b) To be exactly right
+c) To do something difficult
+d) To break something
+
+What does the idiom "Spill the beans" mean?
+a) To waste food
+b) To reveal a secret
+c) To cook something poorly
+d) To clean up a mess
+
+What does the idiom "Under the weather" mean?
+a) Feeling unwell
+b) Being outside in the rain
+c) Taking shelter from a storm
+d) Having a cold drink
+
+What does the idiom "A blessing in disguise" mean?
+a) Something bad that turns out to be good
+b) A gift wrapped beautifully
+c) A hidden treasure
+d) A surprise gift
+
+What does the idiom "Bite the bullet" mean?
+a) To eat quickly
+b) To face a difficult situation bravely
+c) To get injured
+d) To argue with someone
+
+What does the idiom "Let the cat out of the bag" mean?
+a) To release an animal
+b) To reveal a secret
+c) To escape from danger
+d) To act quickly
+
+What does the idiom "Burn the midnight oil" mean?
+a) To work late into the night
+b) To waste energy
+c) To burn something
+d) To party all night
+
+What does the idiom "Jump on the bandwagon" mean?
+a) To join others in doing something trendy
+b) To play an instrument
+c) To get on a moving vehicle
+d) To start a band
+
+What does the idiom "Cry over spilled milk" mean?
+a) To be sad about losing food
+b) To complain about something that cannot be changed
+c) To spill a drink and clean it up
+d) To cry without a reason
+
+What does the idiom "Hit the sack" mean?
+a) To go to bed
+b) To punch a bag
+c) To start working
+d) To quit something
+
+What does the idiom "Piece of cake" mean?
+a) Something very easy
+b) A delicious dessert
+c) Something very difficult
+d) A broken object
+
+What does the idiom "Costs an arm and a leg" mean?
+a) Very expensive
+b) Very cheap
+c) Dangerous
+d) Worthless
+
+What does the idiom "On cloud nine" mean?
+a) Very happy
+b) Confused
+c) Scared of heights
+d) Angry
+
+What does the idiom "Once in a blue moon" mean?
+a) Very rarely
+b) Frequently
+c) Every night
+d) In the morning
+
+What does the idiom "Barking up the wrong tree" mean?
+a) Making a wrong assumption
+b) Looking for a dog
+c) Climbing a tree
+d) Being very angry
+
+What does the idiom "The ball is in your court" mean?
+a) It’s your turn to decide
+b) A game is about to start
+c) You have lost the opportunity
+d) You need to find a ball
+
+What does the idiom "Break a leg" mean?
+a) Good luck
+b) Be careful
+c) Get well soon
+d) Run fast
+
+What does the idiom "Keep your chin up" mean?
+a) Stay positive
+b) Look up
+c) Be arrogant
+d) Hold your breath
+
+What does the idiom "Throw in the towel" mean?
+a) To give up
+b) To do laundry
+c) To go for a swim
+d) To win a competition
+### Phrasal Verbs
+What does the phrasal verb "Break down" mean?
+a) To collapse or fall apart
+b) To start an argument
+c) To interrupt someone
+d) To clean something
+
+What does the phrasal verb "Look up" mean?
+a) To physically look upwards
+b) To improve or get better
+c) To search for information
+d) To examine closely
+
+What does the phrasal verb "Carry on" mean?
+a) To stop something
+b) To continue doing something
+c) To carry an object
+d) To leave immediately
+
+What does the phrasal verb "Give up" mean?
+a) To donate something
+b) To surrender or stop trying
+c) To gift something to someone
+d) To create something
+
+What does the phrasal verb "Take off" mean?
+a) To remove something
+b) To begin flying (plane)
+c) To attack someone
+d) To continue with something
+
+What does the phrasal verb "Run out of" mean?
+a) To start running
+b) To have no more of something
+c) To leave a location
+d) To challenge someone
+
+What does the phrasal verb "Set up" mean?
+a) To arrange or organize something
+b) To leave a place
+c) To destroy something
+d) To take responsibility
+
+What does the phrasal verb "Come across" mean?
+a) To meet by chance
+b) To physically approach someone
+c) To cross a street
+d) To arrive on time
+
+What does the phrasal verb "Turn down" mean?
+a) To reject or refuse
+b) To make something quieter
+c) To walk away
+d) To help someone
+
+What does the phrasal verb "Pick up" mean?
+a) To lift something from the ground
+b) To pay for something
+c) To get or learn something
+d) To drop something
+
+What does the phrasal verb "Check out" mean?
+a) To inspect or look at something
+b) To pay for items at a store
+c) To take something back
+d) To leave a place
+
+What does the phrasal verb "Bring up" mean?
+a) To introduce a topic in conversation
+b) To raise someone
+c) To bring an item with you
+d) To take something back to a store
+
+What does the phrasal verb "Fall through" mean?
+a) To succeed
+b) To collapse
+c) To fail to happen or be completed
+d) To get through a difficult situation
+
+What does the phrasal verb "Give in" mean?
+a) To provide something
+b) To surrender or yield
+c) To contribute to something
+d) To give away something
+
+What does the phrasal verb "Hang out" mean?
+a) To spend time with someone casually
+b) To clean a room
+c) To arrange a meeting
+d) To leave a place quickly
+
+What does the phrasal verb "Look after" mean?
+a) To take care of someone or something
+b) To find something
+c) To avoid something
+d) To observe from a distance
+
+What does the phrasal verb "Get ahead" mean?
+a) To be successful or advance
+b) To fall behind
+c) To leave a location
+d) To go on vacation
+
+What does the phrasal verb "Make up" mean?
+a) To invent or create something
+b) To reconcile or become friends again
+c) To get dressed
+d) To put together a team
+
+What does the phrasal verb "Take over" mean?
+a) To control or dominate
+b) To leave something behind
+c) To begin something new
+d) To complete a task
+
+What does the phrasal verb "Hold on" mean?
+a) To wait or be patient
+b) To grasp something tightly
+c) To resist something
+d) To let go of something
+### Analogies
+Bird is to Fly as Fish is to
+a) Swim
+b) Run
+c) Walk
+d) Jump
+
+Hand is to Glove as Foot is to
+a) Shoe
+b) Sandal
+c) Sock
+d) Boot
+
+Fire is to Burn as Ice is to
+a) Melt
+b) Freeze
+c) Dry
+d) Cool
+
+Book is to Reading as Fork is to
+a) Eating
+b) Writing
+c) Stirring
+d) Cutting
+
+Sun is to Day as Moon is to
+a) Night
+b) Light
+c) Dark
+d) Evening
+
+Bird is to Nest as Dog is to
+a) House
+b) Kennel
+c) Bed
+d) Garden
+
+Pencil is to Write as Eraser is to
+a) Draw
+b) Correct
+c) Mark
+d) Print
+
+Tree is to Leaf as Flower is to
+a) Petal
+b) Stem
+c) Branch
+d) Root
+
+Cold is to Winter as Hot is to
+a) Summer
+b) Spring
+c) Fall
+d) Autumn
+
+Morning is to Sunrise as Evening is to
+a) Sunset
+b) Noon
+c) Twilight
+d) Nightfall
+
+Cup is to Drink as Plate is to
+a) Food
+b) Knife
+c) Spoon
+d) Fork
+
+Teacher is to School as Doctor is to
+a) Hospital
+b) Clinic
+c) Pharmacy
+d) Research
+
+Pen is to Writer as Brush is to
+a) Artist
+b) Painter
+c) Sculptor
+d) Designer
+
+King is to Kingdom as President is to
+a) Country
+b) Nation
+c) State
+d) City
+
+Car is to Road as Boat is to
+a) River
+b) Sea
+c) Ocean
+d) Water
+
+Day is to Month as Minute is to
+a) Year
+b) Hour
+c) Second
+d) Week
+
+Watch is to Time as Thermometer is to
+a) Temperature
+b) Speed
+c) Distance
+d) Volume
+
+Music is to Sound as Painting is to
+a) Color
+b) Picture
+c) Canvas
+d) Brush
+
+Kingdom is to Animal as Family is to
+a) Human
+b) Plant
+c) Species
+d) Genus
+
+Loud is to Noise as Bright is to
+a) Color
+b) Light
+c) Vision
+d) Sound
