@@ -624,362 +624,305 @@ c) Optimist</br>
 d) Philanthropist</br>
 ## Module 4.
 ### Idioms
-What does the idiom "Break the ice" mean?
-a) To shatter something
-b) To start a conversation in a social setting
-c) To fall into cold water
-d) To make a mistake
-
-What does the idiom "Hit the nail on the head" mean?
-a) To hurt oneself
-b) To be exactly right
-c) To do something difficult
-d) To break something
-
-What does the idiom "Spill the beans" mean?
-a) To waste food
-b) To reveal a secret
-c) To cook something poorly
-d) To clean up a mess
-
-What does the idiom "Under the weather" mean?
-a) Feeling unwell
-b) Being outside in the rain
-c) Taking shelter from a storm
-d) Having a cold drink
-
-What does the idiom "A blessing in disguise" mean?
-a) Something bad that turns out to be good
-b) A gift wrapped beautifully
-c) A hidden treasure
-d) A surprise gift
-
-What does the idiom "Bite the bullet" mean?
-a) To eat quickly
-b) To face a difficult situation bravely
-c) To get injured
-d) To argue with someone
-
-What does the idiom "Let the cat out of the bag" mean?
-a) To release an animal
-b) To reveal a secret
-c) To escape from danger
-d) To act quickly
-
-What does the idiom "Burn the midnight oil" mean?
-a) To work late into the night
-b) To waste energy
-c) To burn something
-d) To party all night
-
-What does the idiom "Jump on the bandwagon" mean?
-a) To join others in doing something trendy
-b) To play an instrument
-c) To get on a moving vehicle
-d) To start a band
-
-What does the idiom "Cry over spilled milk" mean?
-a) To be sad about losing food
-b) To complain about something that cannot be changed
-c) To spill a drink and clean it up
-d) To cry without a reason
-
-What does the idiom "Hit the sack" mean?
-a) To go to bed
-b) To punch a bag
-c) To start working
-d) To quit something
-
-What does the idiom "Piece of cake" mean?
-a) Something very easy
-b) A delicious dessert
-c) Something very difficult
-d) A broken object
-
-What does the idiom "Costs an arm and a leg" mean?
-a) Very expensive
-b) Very cheap
-c) Dangerous
-d) Worthless
-
-What does the idiom "On cloud nine" mean?
-a) Very happy
-b) Confused
-c) Scared of heights
-d) Angry
-
-What does the idiom "Once in a blue moon" mean?
-a) Very rarely
-b) Frequently
-c) Every night
-d) In the morning
-
-What does the idiom "Barking up the wrong tree" mean?
-a) Making a wrong assumption
-b) Looking for a dog
-c) Climbing a tree
-d) Being very angry
-
-What does the idiom "The ball is in your court" mean?
-a) It’s your turn to decide
-b) A game is about to start
-c) You have lost the opportunity
-d) You need to find a ball
-
-What does the idiom "Break a leg" mean?
-a) Good luck
-b) Be careful
-c) Get well soon
-d) Run fast
-
-What does the idiom "Keep your chin up" mean?
-a) Stay positive
-b) Look up
-c) Be arrogant
-d) Hold your breath
-
-What does the idiom "Throw in the towel" mean?
-a) To give up
-b) To do laundry
-c) To go for a swim
-d) To win a competition
+1. What does the idiom "Break the ice" mean?</br>
+a) To shatter something</br>
+b) To start a conversation in a social setting</br>
+c) To fall into cold water</br>
+d) To make a mistake</br>
+2. What does the idiom "Hit the nail on the head" mean?</br>
+a) To hurt oneself</br>
+b) To be exactly right</br>
+c) To do something difficult</br>
+d) To break something</br>
+3. What does the idiom "Spill the beans" mean?</br>
+a) To waste food</br>
+b) To reveal a secret</br>
+c) To cook something poorly</br>
+d) To clean up a mess</br>
+4. What does the idiom "Under the weather" mean?</br>
+a) Feeling unwell</br>
+b) Being outside in the rain</br>
+c) Taking shelter from a storm</br>
+d) Having a cold drink</br>
+5. What does the idiom "A blessing in disguise" mean?</br>
+a) Something bad that turns out to be good</br>
+b) A gift wrapped beautifully</br>
+c) A hidden treasure</br>
+d) A surprise gift</br>
+6. What does the idiom "Bite the bullet" mean?</br>
+a) To eat quickly</br>
+b) To face a difficult situation bravely</br>
+c) To get injured</br>
+d) To argue with someone</br>
+7. What does the idiom "Let the cat out of the bag" mean?</br>
+a) To release an animal</br>
+b) To reveal a secret</br>
+c) To escape from danger</br>
+d) To act quickly</br>
+8. What does the idiom "Burn the midnight oil" mean?</br>
+a) To work late into the night</br>
+b) To waste energy</br>
+c) To burn something</br>
+d) To party all night</br>
+9. What does the idiom "Jump on the bandwagon" mean?</br>
+a) To join others in doing something trendy</br>
+b) To play an instrument</br>
+c) To get on a moving vehicle</br>
+d) To start a band</br>
+10. What does the idiom "Cry over spilled milk" mean?</br>
+a) To be sad about losing food</br>
+b) To complain about something that cannot be changed</br>
+c) To spill a drink and clean it up</br>
+d) To cry without a reason</br>
+11. What does the idiom "Hit the sack" mean?</br>
+a) To go to bed</br>
+b) To punch a bag</br>
+c) To start working</br>
+d) To quit something</br>
+12. What does the idiom "Piece of cake" mean?</br>
+a) Something very easy</br>
+b) A delicious dessert</br>
+c) Something very difficult</br>
+d) A broken object</br>
+13. What does the idiom "Costs an arm and a leg" mean?</br>
+a) Very expensive</br>
+b) Very cheap</br>
+c) Dangerous</br>
+d) Worthless</br>
+14. What does the idiom "On cloud nine" mean?</br>
+a) Very happy</br>
+b) Confused</br>
+c) Scared of heights</br>
+d) Angry</br>
+15. What does the idiom "Once in a blue moon" mean?</br>
+a) Very rarely</br>
+b) Frequently</br>
+c) Every night</br>
+d) In the morning</br>
+16. What does the idiom "Barking up the wrong tree" mean?</br>
+a) Making a wrong assumption</br>
+b) Looking for a dog</br>
+c) Climbing a tree</br>
+d) Being very angry</br>
+17. What does the idiom "The ball is in your court" mean?</br>
+a) It’s your turn to decide</br>
+b) A game is about to start</br>
+c) You have lost the opportunity</br>
+d) You need to find a ball</br>
+18. What does the idiom "Break a leg" mean?</br>
+a) Good luck</br>
+b) Be careful</br>
+c) Get well soon</br>
+d) Run fast</br>
+19. What does the idiom "Keep your chin up" mean?</br>
+a) Stay positive</br>
+b) Look up</br>
+c) Be arrogant</br>
+d) Hold your breath</br>
+20. What does the idiom "Throw in the towel" mean?</br>
+a) To give up</br>
+b) To do laundry</br>
+c) To go for a swim</br>
+d) To win a competition</br>
 ### Phrasal Verbs
-What does the phrasal verb "Break down" mean?
-a) To collapse or fall apart
-b) To start an argument
-c) To interrupt someone
-d) To clean something
-
-What does the phrasal verb "Look up" mean?
-a) To physically look upwards
-b) To improve or get better
-c) To search for information
-d) To examine closely
-
-What does the phrasal verb "Carry on" mean?
-a) To stop something
-b) To continue doing something
-c) To carry an object
-d) To leave immediately
-
-What does the phrasal verb "Give up" mean?
-a) To donate something
-b) To surrender or stop trying
-c) To gift something to someone
-d) To create something
-
-What does the phrasal verb "Take off" mean?
-a) To remove something
-b) To begin flying (plane)
-c) To attack someone
-d) To continue with something
-
-What does the phrasal verb "Run out of" mean?
-a) To start running
-b) To have no more of something
-c) To leave a location
-d) To challenge someone
-
-What does the phrasal verb "Set up" mean?
-a) To arrange or organize something
-b) To leave a place
-c) To destroy something
-d) To take responsibility
-
-What does the phrasal verb "Come across" mean?
-a) To meet by chance
-b) To physically approach someone
-c) To cross a street
-d) To arrive on time
-
-What does the phrasal verb "Turn down" mean?
-a) To reject or refuse
-b) To make something quieter
-c) To walk away
-d) To help someone
-
-What does the phrasal verb "Pick up" mean?
-a) To lift something from the ground
-b) To pay for something
-c) To get or learn something
-d) To drop something
-
-What does the phrasal verb "Check out" mean?
-a) To inspect or look at something
-b) To pay for items at a store
-c) To take something back
-d) To leave a place
-
-What does the phrasal verb "Bring up" mean?
-a) To introduce a topic in conversation
-b) To raise someone
-c) To bring an item with you
-d) To take something back to a store
-
-What does the phrasal verb "Fall through" mean?
-a) To succeed
-b) To collapse
-c) To fail to happen or be completed
-d) To get through a difficult situation
-
-What does the phrasal verb "Give in" mean?
-a) To provide something
-b) To surrender or yield
-c) To contribute to something
-d) To give away something
-
-What does the phrasal verb "Hang out" mean?
-a) To spend time with someone casually
-b) To clean a room
-c) To arrange a meeting
-d) To leave a place quickly
-
-What does the phrasal verb "Look after" mean?
-a) To take care of someone or something
-b) To find something
-c) To avoid something
-d) To observe from a distance
-
-What does the phrasal verb "Get ahead" mean?
-a) To be successful or advance
-b) To fall behind
-c) To leave a location
-d) To go on vacation
-
-What does the phrasal verb "Make up" mean?
-a) To invent or create something
-b) To reconcile or become friends again
-c) To get dressed
-d) To put together a team
-
-What does the phrasal verb "Take over" mean?
-a) To control or dominate
-b) To leave something behind
-c) To begin something new
-d) To complete a task
-
-What does the phrasal verb "Hold on" mean?
-a) To wait or be patient
-b) To grasp something tightly
-c) To resist something
-d) To let go of something
+1. What does the phrasal verb "Break down" mean?</br>
+a) To collapse or fall apart</br>
+b) To start an argument</br>
+c) To interrupt someone</br>
+d) To clean something</br>
+2. What does the phrasal verb "Look up" mean?</br>
+a) To physically look upwards</br>
+b) To improve or get better</br>
+c) To search for information</br>
+d) To examine closely</br>
+3. What does the phrasal verb "Carry on" mean?</br>
+a) To stop something</br>
+b) To continue doing something</br>
+c) To carry an object</br>
+d) To leave immediately</br>
+4. What does the phrasal verb "Give up" mean?</br>
+a) To donate something</br>
+b) To surrender or stop trying</br>
+c) To gift something to someone</br>
+d) To create something</br>
+5. What does the phrasal verb "Take off" mean?</br>
+a) To remove something</br>
+b) To begin flying (plane)</br>
+c) To attack someone</br>
+d) To continue with something</br>
+6. What does the phrasal verb "Run out of" mean?</br>
+a) To start running</br>
+b) To have no more of something</br>
+c) To leave a location</br>
+d) To challenge someone</br>
+7. What does the phrasal verb "Set up" mean?</br>
+a) To arrange or organize something</br>
+b) To leave a place</br>
+c) To destroy something</br>
+d) To take responsibility</br>
+8. What does the phrasal verb "Come across" mean?</br>
+a) To meet by chance</br>
+b) To physically approach someone</br>
+c) To cross a street</br>
+d) To arrive on time</br>
+9. What does the phrasal verb "Turn down" mean?</br>
+a) To reject or refuse</br>
+b) To make something quieter</br>
+c) To walk away</br>
+d) To help someone</br>
+10. What does the phrasal verb "Pick up" mean?</br>
+a) To lift something from the ground</br>
+b) To pay for something</br>
+c) To get or learn something</br>
+d) To drop something</br>
+11. What does the phrasal verb "Check out" mean?</br>
+a) To inspect or look at something</br>
+b) To pay for items at a store</br>
+c) To take something back</br>
+d) To leave a place</br>
+12. What does the phrasal verb "Bring up" mean?</br>
+a) To introduce a topic in conversation</br>
+b) To raise someone</br>
+c) To bring an item with you</br>
+d) To take something back to a store</br>
+13. What does the phrasal verb "Fall through" mean?</br>
+a) To succeed</br>
+b) To collapse</br>
+c) To fail to happen or be completed</br>
+d) To get through a difficult situation</br>
+14. What does the phrasal verb "Give in" mean?</br>
+a) To provide something</br>
+b) To surrender or yield</br>
+c) To contribute to something</br>
+d) To give away something</br>
+15. What does the phrasal verb "Hang out" mean?</br>
+a) To spend time with someone casually</br>
+b) To clean a room</br>
+c) To arrange a meeting</br>
+d) To leave a place quickly</br>
+16. What does the phrasal verb "Look after" mean?</br>
+a) To take care of someone or something</br>
+b) To find something</br>
+c) To avoid something</br>
+d) To observe from a distance</br>
+17. What does the phrasal verb "Get ahead" mean?</br>
+a) To be successful or advance</br>
+b) To fall behind</br>
+c) To leave a location</br>
+d) To go on vacation</br>
+18. What does the phrasal verb "Make up" mean?</br>
+a) To invent or create something</br>
+b) To reconcile or become friends again</br>
+c) To get dressed</br>
+d) To put together a team</br>
+19. What does the phrasal verb "Take over" mean?</br>
+a) To control or dominate</br>
+b) To leave something behind</br>
+c) To begin something new</br>
+d) To complete a task</br>
+20. What does the phrasal verb "Hold on" mean?</br>
+a) To wait or be patient</br>
+b) To grasp something tightly</br>
+c) To resist something</br>
+d) To let go of something</br>
 ### Analogies
-Bird is to Fly as Fish is to
-a) Swim
-b) Run
-c) Walk
-d) Jump
-
-Hand is to Glove as Foot is to
-a) Shoe
-b) Sandal
-c) Sock
-d) Boot
-
-Fire is to Burn as Ice is to
-a) Melt
-b) Freeze
-c) Dry
-d) Cool
-
-Book is to Reading as Fork is to
-a) Eating
-b) Writing
-c) Stirring
-d) Cutting
-
-Sun is to Day as Moon is to
-a) Night
-b) Light
-c) Dark
-d) Evening
-
-Bird is to Nest as Dog is to
-a) House
-b) Kennel
-c) Bed
-d) Garden
-
-Pencil is to Write as Eraser is to
-a) Draw
-b) Correct
-c) Mark
-d) Print
-
-Tree is to Leaf as Flower is to
-a) Petal
-b) Stem
-c) Branch
-d) Root
-
-Cold is to Winter as Hot is to
-a) Summer
-b) Spring
-c) Fall
-d) Autumn
-
-Morning is to Sunrise as Evening is to
-a) Sunset
-b) Noon
-c) Twilight
-d) Nightfall
-
-Cup is to Drink as Plate is to
-a) Food
-b) Knife
-c) Spoon
-d) Fork
-
-Teacher is to School as Doctor is to
-a) Hospital
-b) Clinic
-c) Pharmacy
-d) Research
-
-Pen is to Writer as Brush is to
-a) Artist
-b) Painter
-c) Sculptor
-d) Designer
-
-King is to Kingdom as President is to
-a) Country
-b) Nation
-c) State
-d) City
-
-Car is to Road as Boat is to
-a) River
-b) Sea
-c) Ocean
-d) Water
-
-Day is to Month as Minute is to
-a) Year
-b) Hour
-c) Second
-d) Week
-
-Watch is to Time as Thermometer is to
-a) Temperature
-b) Speed
-c) Distance
-d) Volume
-
-Music is to Sound as Painting is to
-a) Color
-b) Picture
-c) Canvas
-d) Brush
-
-Kingdom is to Animal as Family is to
-a) Human
-b) Plant
-c) Species
-d) Genus
-
-Loud is to Noise as Bright is to
-a) Color
-b) Light
-c) Vision
-d) Sound
+1. Obscure is to Clarity as Ambiguous is to</br>
+a) Confusion</br>
+b) Transparency</br>
+c) Precision</br>
+d) Knowledge</br>
+2. Jester is to Amusement as Orator is to</br>
+a) Eloquence</br>
+b) Argument</br>
+c) Debate</br>
+d) Whisper</br>
+3. Ostrich is to Bird as Whale is to</br>
+a) Mammal</br>
+b) Fish</br>
+c) Reptile</br>
+d) Amphibian</br>
+4. Gills are to Fish as Lungs are to</br>
+a) Amphibians</br>
+b) Mammals</br>
+c) Reptiles</br>
+d) Birds</br>
+5. Deluge is to Drizzle as Cyclone is to</br>
+a) Wind</br>
+b) Breeze</br>
+c) Tornado</br>
+d) Rainstorm</br>
+6. Alchemy is to Chemistry as Astrology is to</br>
+a) Astronomy</br>
+b) Mathematics</br>
+c) Physics</br>
+d) Geology</br>
+7. Cacophony is to Sound as Chaos is to</br>
+a) Order</br>
+b) Silence</br>
+c) Peace</br>
+d) Movement</br>
+8. Mendacity is to Honesty as Greed is to</br>
+a) Generosity</br>
+b) Wealth</br>
+c) Frugality</br>
+d) Stinginess</br>
+9. Palate is to Taste as Retina is to</br>
+a) Vision</br>
+b) Sound</br>
+c) Touch</br>
+d) Smell</br>
+10. Manuscript is to Book as Blueprint is to</br>
+a) Engineer</br>
+b) Sketch</br>
+c) Building</br>
+d) Architect</br>
+11. Stagnant is to Motion as Dormant is to</br>
+a) Awake</br>
+b) Active</br>
+c) Sleep</br>
+d) Unconscious</br>
+12. Kernel is to Nut as Embryo is to</br>
+a) Seed</br>
+b) Fruit</br>
+c) Plant</br>
+d) Growth</br>
+13. Callous is to Compassion as Arrogant is to</br>
+a) Humble</br>
+b) Smart</br>
+c) Honest</br>
+d) Talkative</br>
+14. Obstinate is to Flexibility as Timid is to</br>
+a) Bravery</br>
+b) Fear</br>
+c) Intelligence</br>
+d) Knowledge</br>
+15. Caterpillar is to Butterfly as Tadpole is to</br>
+a) Fish</br>
+b) Frog</br>
+c) Lizard</br>
+d) Snake</br>
+16. Quicksand is to Stability as Mirage is to</br>
+a) Vision</br>
+b) Illusion</br>
+c) Reflection</br>
+d) Appearance</br>
+17. Austere is to Luxury as Frugal is to</br>
+a) Lavish</br>
+b) Spendthrift</br>
+c) Wealthy</br>
+d) Generous</br>
+18. Elixir is to Cure as Poison is to</br>
+a) Remedy</br>
+b) Disease</br>
+c) Harm</br>
+d) Medicine</br>
+19. Sculptor is to Chisel as Tailor is to</br>
+a) Cloth</br>
+b) Sewing Machine</br>
+c) Needle</br>
+d) Pattern</br>
+20. Reservoir is to Water as Warehouse is to</br>
+a) Goods</br>
+b) Machines</br>
+c) Stock</br>
+d) Resources</br>
